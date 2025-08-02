@@ -1,0 +1,1 @@
+# how-will-be-get-odd-or-even-number-from-list
